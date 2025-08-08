@@ -38,7 +38,7 @@ Lumina Creative’s website is built to represent the agency’s vibrant, profes
 
 ## 📩 Contact
 
-For inquiries, visit the [Contact Page](contact.html) or send a message directly through the form.
+For inquiries, visit the website and send a message directly through the form.
 
 ---
 
